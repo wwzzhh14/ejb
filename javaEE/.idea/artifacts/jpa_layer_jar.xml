@@ -1,0 +1,10 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="jpa-layer:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/jpa_layer_jar</output-path>
+    <root id="archive" name="jpa-layer.jar">
+      <element id="module-output" name="jpa-layer" />
+      <element id="module-output" name="jpa-api" />
+      <element id="extracted-dir" path="$MAVEN_REPOSITORY$/org/jboss/spec/javax/ejb/jboss-ejb-api_3.1_spec/1.0.2.Final/jboss-ejb-api_3.1_spec-1.0.2.Final.jar" path-in-jar="/" />
+    </root>
+  </artifact>
+</component>

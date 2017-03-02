@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<mappings>
+    <mapping>
+        <path>/</path>
+        <url>action.IndexAction</url>
+    </mapping>
+    <mapping>
+        <path>/login</path>
+        <url>action.LoginAction</url>
+    </mapping>
+    <mapping>
+        <path>/logout</path>
+        <url>action.LogoutAction</url>
+    </mapping>
+</mappings>

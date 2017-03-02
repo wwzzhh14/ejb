@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ejb-api/ejb-api.iml" filepath="$PROJECT_DIR$/ejb-api/ejb-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ejb-layer/ejb-layer.iml" filepath="$PROJECT_DIR$/ejb-layer/ejb-layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/javaEE.iml" filepath="$PROJECT_DIR$/javaEE.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa-api/jpa-api.iml" filepath="$PROJECT_DIR$/jpa-api/jpa-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/jpa-layer/jpa-layer.iml" filepath="$PROJECT_DIR$/jpa-layer/jpa-layer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-layer/web-layer.iml" filepath="$PROJECT_DIR$/web-layer/web-layer.iml" />
+    </modules>
+  </component>
+</project>
